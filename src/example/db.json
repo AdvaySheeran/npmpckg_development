@@ -1,0 +1,132 @@
+{
+  "bibliographyList": [
+    {
+			"id": 1,
+      "meShTerms": [
+        "MT1",
+        "MT2",
+        "MT1"
+      ]
+    }
+  ],
+  "primaryAnatomyTarget": [
+    {
+      "id": "61a97f001665bf929bf95958",
+      "synonymsList": [
+        "Vas deferens",
+        "Ductus deferens"
+      ],
+      "fieldData": "Vas deferens",
+      "organId": 75,
+      "status": "Approved"
+    },
+    {
+      "id": "61a97f001665bf929bf95957",
+      "synonymsList": [
+        "Pancreas"
+      ],
+      "fieldData": "Pancreas",
+      "organId": 38,
+      "status": "Approved"
+    }
+  ],
+  "primaryIndication": [
+    {
+      "id": "6195f35f55182176347a14d7",
+      "fieldData": "Seizure",
+      "indAeId": 1,
+      "status": "Approved",
+      "synonymsList": [
+        "Seizure",
+        "Seizure",
+        "Fit",
+        "Seizure",
+        "Seizure",
+        "Fit"
+      ]
+    },
+    {
+      "id": "6195f35f55182176347a14d6",
+      "fieldData": "Fever",
+      "indAeId": 3,
+      "status": "Approved",
+      "synonymsList": [
+        "Fever",
+        "Fever",
+        "Pyrexia",
+        "Fever",
+        "Fever",
+        "Pyrexia"
+      ]
+    }
+  ],
+  "authorAndCompanyDetails": [
+    {
+      "id": "1",
+      "bibliographyListId": 1,
+      "primary": "",
+      "authorNameAcd": {
+        "field": "authorName",
+        "fieldData": "AuthorName1"
+      },
+      "companyNameAcd": {
+        "field": "companyName",
+        "fieldData": "CompanyName1"
+      },
+      "companyDetailsAcd": {
+        "field": "companyDetails",
+        "fieldData": "CompanyDetails2"
+      },
+      "standardCompanyNameAcd": {
+        "_id": "615ad7c5040ca80008521c48",
+        "fieldData": "UNIVERSITAT LEIPZIG",
+        "compNameId": 18,
+        "status": "Approved",
+        "synonyms": "",
+        "synonymsList": []
+      },
+      "phoneNumber": "9988776655",
+      "email": "email1@gmail.com",
+      "individualAddress": "HYD"
+    }
+  ],
+  "authorNameAcd": [
+    {
+      "id": 1,
+      "authorAndCompanyDetailsId": "1",
+      "field": "authorName",
+      "fieldData": "AuthorName1"
+    }
+  ],
+	"bList": [
+    {
+      "id": 1,
+      "meShTerms": [
+        "MT1",
+        "MT2",
+        "MT1"
+      ]
+    }
+  ],
+  "paTarget": [
+    {
+      "id": "61a97f001665bf929bf95958",
+      "synonymsList": [
+        "Vas deferens",
+        "Ductus deferens"
+      ],
+      "fieldData": "Vas deferens",
+      "organId": 75,
+      "status": "Approved"
+    },
+    {
+      "id": "61a97f001665bf929bf95957",
+      "synonymsList": [
+        "Pancreas"
+      ],
+      "fieldData": "Pancreas",
+      "organId": 38,
+      "status": "Approved"
+    }
+  ]
+}
